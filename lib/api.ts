@@ -2,7 +2,7 @@
  * Base URL for the Planora backend API.
  * Set NEXT_PUBLIC_API_URL in the environment (e.g. https://api.planora.app/api/v1).
  */
-export const API_BASE_URL = 'http://localhost:3001/api/v1';
+export const API_BASE_URL = 'https://planorabackend-production-d233.up.railway.app/api/v1';
 
 export async function postJson<T = unknown>(
   path: string,
