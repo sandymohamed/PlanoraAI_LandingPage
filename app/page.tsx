@@ -1,6 +1,5 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import { Hero } from '@/components/Hero';
 import { AIShowcase } from '@/components/AIShowcase';
 import { RoutinesFocus } from '@/components/RoutinesFocus';

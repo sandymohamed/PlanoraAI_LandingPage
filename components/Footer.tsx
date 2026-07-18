@@ -29,6 +29,9 @@ export function Footer() {
         <Link href="/contact" className="hover:text-zinc-300">
           Contact
         </Link>
+        <Link href="/delete-account" className="hover:text-zinc-300">
+          Delete Account
+        </Link>
       </nav>
       <p>© {new Date().getFullYear()} Planora AI. Built for individuals who plan with intention.</p>
       <p className="mt-2">
